@@ -13,5 +13,12 @@
     "name": "liangxie",
     "email": "liangxiegame@163.com",
     "url": "https://qframework.cn"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "Example Collections",
+      "path": "Samples~/Example"
+    }
+  ]
 }
